@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Solves any sudoku puzzle that has a solution, or let you know there's no solution.
+Solves any sudoku puzzle that has a solution, or lets you know that no solution exists!
 
 To input the sudoku puzzle, enter each line of numbers without spaces substituting blanks with zeros.
 
